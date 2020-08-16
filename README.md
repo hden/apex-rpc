@@ -1,4 +1,4 @@
-# apex-rpc
+# apex-rpc ![Build Status](https://circleci.com/gh/hden/apex-rpc.svg?&style=shield) [![codecov](https://codecov.io/gh/hden/apex-rpc/branch/master/graph/badge.svg)](https://codecov.io/gh/hden/apex-rpc)
 
 Simple RPC style APIs with generated clients.
 
