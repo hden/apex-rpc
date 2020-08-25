@@ -7,7 +7,7 @@
                  [org.clojure/data.json "1.0.0"]
                  [org.martinklepsch/clj-http-lite "0.4.3"]]
   :repl-options {:init-ns apex-rpc.core}
-  :plugins [[lein-cloverage "1.1.2"]]
+  :plugins [[lein-cloverage "1.2.0"]]
   :profiles
   {:dev {:dependencies [[ring/ring-jetty-adapter "1.3.2"]
                         [ring/ring-devel "1.3.2"]]}})
