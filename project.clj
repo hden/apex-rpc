@@ -9,5 +9,5 @@
   :repl-options {:init-ns apex-rpc.core}
   :plugins [[lein-cloverage "1.2.0"]]
   :profiles
-  {:dev {:dependencies [[ring/ring-jetty-adapter "1.3.2"]
+  {:dev {:dependencies [[ring/ring-jetty-adapter "1.8.1"]
                         [ring/ring-devel "1.8.1"]]}})
