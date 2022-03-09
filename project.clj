@@ -10,4 +10,4 @@
   :plugins [[lein-cloverage "1.2.2"]]
   :profiles
   {:dev {:dependencies [[ring/ring-jetty-adapter "1.9.5"]
-                        [ring/ring-devel "1.9.4"]]}})
+                        [ring/ring-devel "1.9.5"]]}})
